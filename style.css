@@ -105,12 +105,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('image copy.png') bottom right no-repeat;
+    background: url('imagecopy.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('image copy.png');
+    background-image: url('imagecopy.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
