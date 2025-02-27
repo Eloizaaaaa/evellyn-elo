@@ -76,8 +76,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('image copy.png') top right no-repeat,
-        url('image copy.png') bottom left no-repeat;
+    background: url('img/image.png') top right no-repeat,
+        url('img/image.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
