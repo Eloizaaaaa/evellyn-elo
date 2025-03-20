@@ -105,12 +105,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/image.png') bottom right no-repeat;
+    background: url('img/download\ \(1\).jpg bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/image.png');
+    background-image: url('img/unnamed.webp');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -118,7 +118,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #0d23e9;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -129,11 +129,11 @@ h2 {
 }
 
 .formulario button {
-    background-color: #6743cb;
+    background-color: #16a2ff;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #0036e6;
 }
